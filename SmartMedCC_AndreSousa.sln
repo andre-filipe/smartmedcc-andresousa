@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMedCC_AndreSousa", "SmartMedCC_AndreSousa\SmartMedCC_AndreSousa.csproj", "{38FFC07A-4739-4A01-A0A2-91F2EA5507E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMedCC_AndreSousa.Tests", "SmartMedCC_AndreSousa.Tests\SmartMedCC_AndreSousa.Tests.csproj", "{4C88C2CC-51EA-4ABD-88D1-600DA91D3238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38FFC07A-4739-4A01-A0A2-91F2EA5507E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FFC07A-4739-4A01-A0A2-91F2EA5507E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38FFC07A-4739-4A01-A0A2-91F2EA5507E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38FFC07A-4739-4A01-A0A2-91F2EA5507E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C88C2CC-51EA-4ABD-88D1-600DA91D3238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C88C2CC-51EA-4ABD-88D1-600DA91D3238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C88C2CC-51EA-4ABD-88D1-600DA91D3238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C88C2CC-51EA-4ABD-88D1-600DA91D3238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

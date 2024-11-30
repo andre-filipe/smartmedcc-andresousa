@@ -1,0 +1,17 @@
+# Ignore SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# Ignore build directories
+bin/
+obj/
+
+# Ignore Visual Studio temporary files
+.vs/
+.vscode/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
