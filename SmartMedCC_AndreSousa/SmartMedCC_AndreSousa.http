@@ -10,13 +10,19 @@ Accept: application/json
     "quantity": 4
 }
 
+###
+
 # GET ALL
 GET {{SmartMedCC_AndreSousa_HostAddress}}/medications/
 Accept: application/json
 
+###
+
 # GET BY ID
 GET {{SmartMedCC_AndreSousa_HostAddress}}/medications/1
 Accept: application/json
+
+###
 
 # UPDATE
 PUT {{SmartMedCC_AndreSousa_HostAddress}}/medications/
@@ -28,6 +34,8 @@ Accept: application/json
     "name": "Ben-u-ron 2",
     "quantity": 2
 }
+
+###
 
 # DELETE
 DELETE {{SmartMedCC_AndreSousa_HostAddress}}/medications/1
